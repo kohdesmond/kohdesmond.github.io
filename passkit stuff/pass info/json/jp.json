@@ -1,0 +1,76 @@
+{
+	"formatVersion" : 1,
+	"passTypeIdentifier" : "pass.sg.edu.smu.larc.pass",
+	"serialNumber" : "XD",
+	"teamIdentifier" : "567BQ7RDQ8",
+	"barcodes" : [
+		{
+		    "message" : "https://kohdesmond.github.io/jp.pkpass",
+		    "format" : "PKBarcodeFormatQR",
+		    "messageEncoding" : "iso-8859-1"
+		}
+	],
+	"organizationName" : "Singapore Management University",
+	"description" : "Jessica PEH - SMU",
+	"logoText" : "",
+	"foregroundColor" : "rgb(198, 146, 0)",
+	"backgroundColor" : "rgb(255, 255, 255)",
+	"labelColor" : "rgb(125, 125, 125)",
+	"storeCard" : {
+	"headerFields" : [
+		{
+			"key" : "header-name",
+			"textAlignment" : "PKTextAlignmentRight",
+			"label" : "Name:",
+			"value" : "Jessica PEH"
+		}
+	],
+		"auxiliaryFields" : [
+			{
+				"key" : "email",
+				"label" : "Email:",
+				"value" : "jessicapeh@smu.edu.sg",
+				"textAlignment" : "PKTextAlignmentLeft"
+			},
+			{
+				"key" : "role",
+				"label" : "Role:",
+				"value" : "Web and Application Designer",
+				"textAlignment" : "PKTextAlignmentLeft"
+			},
+		],
+		"backFields" : [
+			{
+				"key" : "back-name",
+				"label" : "Name",
+				"value" : "Jessica PEH"
+			},
+			{
+				"key" : "back-position",
+				"label" : "Role",
+				"value" : "Web and Application Designer"
+			},
+			{
+				"key" : "back-email",
+				"label" : "Email",
+				"attributedValue" : "<a href='mailto:jessicapeh@smu.edu.sg'>jessicapeh@smu.edu.sg</a>"
+			},	
+			{
+				"key" : "back-phone",
+				"label" : "Tel:",
+				"attributedValue" : 
+				"<a href='tel:+6568085306'>+65 6808 5306</a>"
+			},
+			{
+				"key" : "back-larc web",
+				"label" : "Living Analytics Research Center",
+				"attributedValue" : "<a href='https://smu.sg/larc'>https://smu.sg/larc</a>"
+			},
+			{
+				"key" : "back-website",
+				"label" : "Singapore Management University",
+				"attributedValue" : "<a href='https://smu.edu.sg'>https://smu.edu.sg</a>"
+			}			
+		]
+	}
+}

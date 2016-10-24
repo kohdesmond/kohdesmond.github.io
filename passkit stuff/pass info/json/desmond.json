@@ -1,0 +1,82 @@
+{
+	"formatVersion" : 1,
+	"passTypeIdentifier" : "pass.sg.edu.smu.larc.pass",
+	"serialNumber" : "XD",
+	"teamIdentifier" : "567BQ7RDQ8",
+	"barcodes" : [
+		{
+		    "message" : "https://kohdesmond.github.io/desmond.pkpass",
+		    "format" : "PKBarcodeFormatQR",
+		    "messageEncoding" : "iso-8859-1"
+		}
+	],
+	"organizationName" : "Singapore Management University",
+	"description" : "Desmond Koh - SMU",
+	"logoText" : "",
+	"foregroundColor" : "rgb(198, 146, 0)",
+	"backgroundColor" : "rgb(255, 255, 255)",
+	"labelColor" : "rgb(125, 125, 125)",
+	"storeCard" : {
+	"headerFields" : [
+		{
+			"key" : "header-name",
+			"textAlignment" : "PKTextAlignmentRight",
+			"label" : "Name:",
+			"value" : "Desmond KOH"
+		}
+	],
+		"auxiliaryFields" : [
+			{
+				"key" : "email",
+				"label" : "Email:",
+				"value" : "desmondkoh@smu.edu.sg",
+				"textAlignment" : "PKTextAlignmentLeft"
+			},
+			{
+				"key" : "role",
+				"label" : "Role:",
+				"value" : "Research Engineer",
+				"textAlignment" : "PKTextAlignmentLeft"
+			},
+		],
+		"backFields" : [
+			{
+				"key" : "back-name",
+				"label" : "Name",
+				"value" : "Desmond Koh"
+			},
+			{
+				"key" : "back-position",
+				"label" : "Role",
+				"value" : "Research Engineer"
+			},
+			{
+				"key" : "back-email",
+				"label" : "Email",
+				"attributedValue" : "<a href='mailto:desmondkoh@smu.edu.sg'>desmondkoh@smu.edu.sg</a>"
+			},	
+			{
+				"key" : "back-phone",
+				"label" : "Tel:",
+				"attributedValue" : 
+				"<a href='tel:+6568085227'>+65 6808 5227</a>"
+			},
+			{
+				"key" : "back-mobilephone",
+				"label" : "Mobile:",
+				"attributedValue" : 
+				"<a href='tel:+6591811570'>+65 9181 1570</a>"
+			},
+			{
+				"key" : "back-larc web",
+				"label" : "Living Analytics Research Center",
+				"attributedValue" : "<a href='https://smu.sg/larc'>https://smu.sg/larc</a>"
+			},
+			{
+				"key" : "back-website",
+				"label" : "Singapore Management University",
+				"attributedValue" : "<a href='https://smu.edu.sg'>https://smu.edu.sg</a>"
+			}			
+		]
+	}
+}
