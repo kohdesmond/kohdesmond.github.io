@@ -5,7 +5,7 @@
 	"teamIdentifier" : "567BQ7RDQ8",
 	"barcodes" : [
 		{
-		    "message" : "https://kohdesmond.github.io/mfc.pkpass",
+		    "message" : "https://kohdesmond.github.io/cmf.pkpass",
 		    "format" : "PKBarcodeFormatQR",
 		    "messageEncoding" : "iso-8859-1"
 		}
